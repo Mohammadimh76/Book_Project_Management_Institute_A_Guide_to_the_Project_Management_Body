@@ -83,12 +83,12 @@ the information in this standard by providing a more in-depth description of the
 <details>
   <summary><b>PART TWO</b></summary>
   
-  * [Chapter 1](#): <i>Introduction</i>
-  * [Chapter 2](#): <i>Initiating process group</i>
-  * [Chapter 3](#): <i>Planning process group</i>
-  * [Chapter 4](#): <i>Executing process group</i>
-  * [Chapter 5](#): <i>Monitoring and controlling process group</i>
-  * [Chapter 6](#): <i>Closing process group</i>
+  * Chapter 1: <i>Introduction</i>
+  * Chapter 2: <i>Initiating process group</i>
+  * Chapter 3: <i>Planning process group</i>
+  * Chapter 4: <i>Executing process group</i>
+  * Chapter 5: <i>Monitoring and controlling process group</i>
+  * Chapter 6: <i>Closing process group</i>
 
   </details>
 
