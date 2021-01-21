@@ -288,8 +288,10 @@ the information in this standard by providing a more in-depth description of the
 
 </article>
 
+---
+
 ## 📝 PART TWO
-🔺(Coming Soon)🔺
+### 🔺(Coming Soon)🔺
 
 
 ---
