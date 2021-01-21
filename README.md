@@ -312,7 +312,7 @@ the information in this standard by providing a more in-depth description of the
 ### The Second: "Mohammad Hossein Mohammadi"
 
 <p align="center">
-  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_CEH-Certified-Ethical-Hacker-/main/Authors/MohammadHosseinMohammadi.jpeg">
+  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_Project_Management_Institute_A_Guide_to_the_Project_Management_Body/main/Authors/MohammadHosseinMohammadi.jpeg">
 </p>
 
 Iam currently a Final-year BS.c student at the Department of Computer Engineering, Islamic Azad University, Najafabad Branch (IAUN) (Rank in CWUR) where I am a member of the Bioinformatics Laboratory (BL), advised by Prof. Mohammad Naderi Dehkordi. my research involves machine vision, deep learning, and neural networks. where I will complete my thesis on Accurate and Early Identification of Diabetes and it's Affecting Factors.
@@ -332,7 +332,7 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 ### Third: "Seyed Yahya Moradi"
 
 <p align="center">
-  <img width="320" height="318" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/SeyedYahyaMoradi.jpeg">
+  <img width="320" height="318" src="https://raw.githubusercontent.com/Mohammadimh76/Book_Project_Management_Institute_A_Guide_to_the_Project_Management_Body/main/Authors/SeyedYahyaMoradi.jpeg">
 </p>
 
 I am Biomedical Engineer from University of Isfahan. My research interests is Non-Invasive Brain Stimulation, Neuroscience, Brain Mapping & Connectivity, Biomedical AI & IOT, Biosignal Processing.
