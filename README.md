@@ -94,8 +94,9 @@ the information in this standard by providing a more in-depth description of the
 
 
 🔸 [Authors](#authors)<br>
-🔸 [Demo](#demo)<br>
 🔸 [TODO](#todo)<br>
+🔸 [Demo](#demo)<br>
+
 
 </div>
 
@@ -109,6 +110,7 @@ the information in this standard by providing a more in-depth description of the
   
 ### Chapter 1
 - #### Introduction
+
 
 
 ##### 🔹 Topics in this chapter include
