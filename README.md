@@ -360,12 +360,12 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 
   - [x] <b>Chapter (1):</b> <i>Introduction</i>
   - [x] <b>Chapter (2):</b> <i>The environment in which projects operate</i>
-  - [ ] <b>Chapter (3):</b> <i>The role of the project manager</i>
-  - [ ] <b>Chapter (4):</b> <i>Project integration management</i>
-  - [ ] <b>Chapter (5):</b> <i>Project scope management</i>
-  - [ ] <b>Chapter (6):</b> <i>Project schedule management</i>
-  - [ ] <b>Chapter (7):</b> <i>Project cost management</i>
-  - [ ] <b>Chapter (8):</b> <i>Project quality management</i>
+  - [x] <b>Chapter (3):</b> <i>The role of the project manager</i>
+  - [x] <b>Chapter (4):</b> <i>Project integration management</i>
+  - [x] <b>Chapter (5):</b> <i>Project scope management</i>
+  - [x] <b>Chapter (6):</b> <i>Project schedule management</i>
+  - [x] <b>Chapter (7):</b> <i>Project cost management</i>
+  - [x] <b>Chapter (8):</b> <i>Project quality management</i>
   - [ ] <b>Chapter (9):</b> <i>Project resource management</i>
   - [ ] <b>Chapter (10):</b> <i>Project communications management</i>
   - [ ] <b>Chapter (11):</b> <i>Project risk management</i>
